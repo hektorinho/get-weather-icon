@@ -1,5 +1,5 @@
 # get-weather-icon
-Project that takes a Latitude/Longitude pair and translates it in to a weather icon for your location. It uses the free open meteo API to return a weather code that is then translated in to a weather icon.
+Project that takes a Latitude/Longitude pair and translates it in to a weather icon for your location. It uses the free open meteo API (https://open-meteo.com) to return a weather code that is then translated in to a weather icon.
 
 # Installation
 ```
