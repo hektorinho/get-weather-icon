@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/weather/META"
+  "_build/install/default/lib/weather/dune-package"
+  "_build/install/default/lib/weather/opam"
+]
+bin: [
+  "_build/install/default/bin/weather"
+]
